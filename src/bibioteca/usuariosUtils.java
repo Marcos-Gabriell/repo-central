@@ -2,7 +2,7 @@ package bibioteca;
 
 public class usuariosUtils {
 
-	public boolean autenticar() {
+	public boolean login() {
 		return false;
 	}
 }
