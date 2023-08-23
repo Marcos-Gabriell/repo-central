@@ -16,4 +16,4 @@ O principal objetivo deste projeto é proporcionar uma oportunidade de aprender 
 
 1. Clone este repositório para o seu sistema local:
    ```sh
-   git clone https://github.com/seu-usuario/treinamento-git-github-java.git
+   git clone https://github.com/Marcos-Gabriell/repo-central.git
