@@ -1,6 +1,6 @@
 # Projeto de Treinamento em Versionamento de Código com Git e GitHub
 
-Este é um projeto simples desenvolvido em Java, criado para fins de treinamento em versionamento de código com o uso do Git e GitHub.
+Este é um projeto simples desenvolvido em Java, criado para fins de treinamento em versionamento de código com o uso do Git e GitHub jutamente com JAVA.
 
 ## Objetivos
 
