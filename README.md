@@ -12,6 +12,7 @@ O principal objetivo deste projeto é proporcionar uma oportunidade de aprender 
 - Enviar alterações para um repositório remoto no GitHub
 - Trabalhar em equipe, lidando com conflitos e pull requests
 
+
 ## Como Usar
 
 1. Clone este repositório para o seu sistema local:
