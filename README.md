@@ -4,6 +4,7 @@ Este é um projeto simples desenvolvido em Java, criado para fins de treinamento
 
 ## Objetivos
 
+
 O principal objetivo deste projeto é proporcionar uma oportunidade de aprender e praticar os conceitos fundamentais de versionamento de código, utilizando as ferramentas Git e GitHub. Você irá:
 
 - Iniciar um repositório Git local
